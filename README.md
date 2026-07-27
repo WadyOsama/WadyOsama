@@ -23,6 +23,8 @@
 <li><a target="_blank" href="https://github.com/WadyOsama/USA-Flights-Pipeline">USA Flights Pipeline</a></li>
 <li><a target="_blank" href="https://github.com/WadyOsama/Currency-Data-Processing-and-Analysis-Pipeline">Currency Data Processing and Analysis Pipeline</a></li>
 <li><a target="_blank" href="https://github.com/WadyOsama/Processing-API-Using-Big-Data-Tools">Processing API Using Big Data Tools</a></li>
+</ul>
+
 
 <h2 align="center">⚡️ Where to find me</h2>
 <p align="center"><a target="_blank" href="https://www.linkedin.com/in/wadyosama" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
