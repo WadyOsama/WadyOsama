@@ -1,6 +1,7 @@
-<div align="center" data-importer="border">
+<div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
 <h1 align="center">Hi 👋, I'm Wady Osama</h1>
 <h3 align="center">A passionate Data Engineer from Egypt</h3>
 
@@ -26,4 +27,5 @@
 <h2 align="center">⚡️ Where to find me</h2>
 <p align="center"><a target="_blank" href="https://www.linkedin.com/in/wadyosama" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
 
+<img align="center" data-importer="snake" src="https://raw.githubusercontent.com/WadyOsama/WadyOsama/snake-output/snake.svg" alt="Snake animation" />
 
